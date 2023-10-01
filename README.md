@@ -4,7 +4,7 @@
 ![LLM](https://img.shields.io/badge/API-LLM-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-An application I built using Langchain that provides answers based off an uploaded PDF.
+An application I developed using Langchain that allows users to engage with a PDF as though they're having a conversation with it..
 
 This repository houses a project I created using the LangChain framework. It provides the capability to upload a PDF document and allows you to engage in a chat-like interaction with the LangChain framework as if you were conversing directly with the content of the PDF.
 
