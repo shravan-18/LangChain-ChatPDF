@@ -1,4 +1,4 @@
-# Langchain-PDF_Reader
+# Langchain-CHAT-WITH-PDF
 
 ![LangChain](https://img.shields.io/badge/Langchain-Framework-orange.svg)
 ![LLM](https://img.shields.io/badge/API-LLM-green.svg)
